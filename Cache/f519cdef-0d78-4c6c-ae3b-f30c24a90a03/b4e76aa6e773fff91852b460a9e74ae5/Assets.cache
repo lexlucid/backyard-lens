@@ -1,0 +1,14 @@
+- !<AssetCache/93983467-e9da-4046-8c4a-d52c5ad6ce6f>
+  AssetFiles:
+    d6fab22e-1f1e-4eb4-a196-6232b6049f5a: f519cdef-0d78-4c6c-ae3b-f30c24a90a03/b4e76aa6e773fff91852b460a9e74ae5/Data/failed_texture.png
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/d6fab22e-1f1e-4eb4-a196-6232b6049f5a>
+      PackagePath: ""
+      Width: 512
+      Height: 512
+  SourceHash: b4e76aa6e773fff91852b460a9e74ae5
+  FileHash: 04376db5dadedae40b8b8d4cc76d6a99
+  NativePackageItems:
+    []

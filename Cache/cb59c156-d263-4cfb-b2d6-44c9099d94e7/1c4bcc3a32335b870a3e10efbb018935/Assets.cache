@@ -1,0 +1,14 @@
+- !<AssetCache/0b737c7e-9cd2-4740-88f2-e9dd377943a5>
+  AssetFiles:
+    1b441827-599a-40e4-b30e-d1685f28f80f: "cb59c156-d263-4cfb-b2d6-44c9099d94e7/1c4bcc3a32335b870a3e10efbb018935/Data/location_icon [REPLACE_ME].png"
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/1b441827-599a-40e4-b30e-d1685f28f80f>
+      PackagePath: ""
+      Width: 1024
+      Height: 1024
+  SourceHash: 1c4bcc3a32335b870a3e10efbb018935
+  FileHash: ce08cb4b443dcc11c7b3d7b67a2b79c5
+  NativePackageItems:
+    []

@@ -1,0 +1,14 @@
+- !<AssetCache/ac640e9f-24cc-4d82-a432-a96780dd7903>
+  AssetFiles:
+    97de7d38-decd-449b-bfd1-7a1d6584e24a: 64bd8dc5-8369-4537-ba05-702181964e78/fe51c8c5952418b33691c7f0847924fe/Data/loading_ring.png
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/97de7d38-decd-449b-bfd1-7a1d6584e24a>
+      PackagePath: ""
+      Width: 301
+      Height: 301
+  SourceHash: fe51c8c5952418b33691c7f0847924fe
+  FileHash: bd7f3b5e0f27ed65b050cb7ffa73b945
+  NativePackageItems:
+    []

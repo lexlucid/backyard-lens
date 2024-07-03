@@ -1,0 +1,72 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 66
+    values:
+      - Custom_Locations__PLACE_IN_SCENE/.hidden
+      - Custom_Locations__PLACE_IN_SCENE/.hidden/Go To Animation.ss_graph
+      - Custom_Locations__PLACE_IN_SCENE/.hidden/Loading Ring.ss_graph
+      - Custom_Locations__PLACE_IN_SCENE/.hidden/LocationMesh.ss_graph
+      - Custom_Locations__PLACE_IN_SCENE/.hidden/PBR.ss_graph
+      - Custom_Locations__PLACE_IN_SCENE/.hidden/Segmentation.ss_graph
+      - Custom_Locations__PLACE_IN_SCENE/Custom Locations__PLACE_IN_SCENE.prefab
+      - "Custom_Locations__PLACE_IN_SCENE/Location Asset [REPLACE_LOCATION_ID].location"
+      - Custom_Locations__PLACE_IN_SCENE/Materials/Hint Materials
+      - Custom_Locations__PLACE_IN_SCENE/Materials/Hint Materials/Go To Animation.mat
+      - Custom_Locations__PLACE_IN_SCENE/Materials/Hint Materials/Loading Ring.mat
+      - Custom_Locations__PLACE_IN_SCENE/Materials/Hint Materials/Location Icon 2.mat
+      - Custom_Locations__PLACE_IN_SCENE/Materials/Hint Materials/Location Icon.mat
+      - Custom_Locations__PLACE_IN_SCENE/Materials/LocationMesh.mat
+      - Custom_Locations__PLACE_IN_SCENE/Materials/PBR.mat
+      - Custom_Locations__PLACE_IN_SCENE/Materials/Segmentation.mat
+      - Custom_Locations__PLACE_IN_SCENE/Materials/Snapcode.mat
+      - Custom_Locations__PLACE_IN_SCENE/Meshes
+      - Custom_Locations__PLACE_IN_SCENE/Meshes/Box.mesh
+      - Custom_Locations__PLACE_IN_SCENE/Meshes/Location Mesh.location_mesh
+      - Custom_Locations__PLACE_IN_SCENE/Meshes/Yard Mesh.location_mesh
+      - Custom_Locations__PLACE_IN_SCENE/Meshes/matte_shadow.ss_graph
+      - Custom_Locations__PLACE_IN_SCENE/Scripts
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/CustomLocationController.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/FrontCameraMirror.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts/Behavior.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts/ParentToCamera.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts/SetRenderOrder.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts/Tween
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts/Tween/Tween.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts/Tween/TweenManager.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts/Tween/TweenTypes
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts/Tween/TweenTypes/TweenAlpha.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Helpe rScripts/Tween/TweenTypes/TweenScreenTransform.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Information Scripts
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Information Scripts/CameraSetUp.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Information Scripts/LocationAssetInformation.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Information Scripts/MarkerGuide.js
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Status
+      - Custom_Locations__PLACE_IN_SCENE/Scripts/Status/StatusController.js
+      - Custom_Locations__PLACE_IN_SCENE/Textures
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Base.png
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/failed_texture.png
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/go_to_anim
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/go_to_anim/go_to_anim
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/go_to_anim/go_to_anim/go_to_anim.t3d
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/go_to_anim/go_to_anim/go_to_anim.t3d/atlas_0.pvr
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/go_to_anim/go_to_anim/go_to_anim.t3d/go_to_anim
+      - "Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/location_icon [REPLACE_ME].png"
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/point_at_anim
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/point_at_anim/point_at_anim
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/point_at_anim/point_at_anim/point_at_anim.t3d
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/point_at_anim/point_at_anim/point_at_anim.t3d/atlas_0.pvr
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Hint Textures/point_at_anim/point_at_anim/point_at_anim.t3d/point_at_anim
+      - Custom_Locations__PLACE_IN_SCENE/Textures/MaterialParams.png
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Normal.png
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Segmentation Textures
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Segmentation Textures/Body Segmentation.segmentationTexture
+      - Custom_Locations__PLACE_IN_SCENE/Textures/Segmentation Textures/Portrait Background Segmentation.segmentationTexture
+      - Custom_Locations__PLACE_IN_SCENE/Textures/custom-landmarker-scan-1-a783491b4024b59080a5d840915eec86.png
+      - Custom_Locations__PLACE_IN_SCENE/Textures/loading_ring.png
+      - Echopark.hdr
+      - Yard Mesh.mat
+      - location_mesh.ss_graph
+  options: 4

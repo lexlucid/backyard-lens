@@ -1,0 +1,12 @@
+- !<AssetCache/b7ab5668-20da-41ee-9b49-e44eba94fd20>
+  AssetFiles:
+    a7856523-73ab-4f76-8866-20b534f96318: 35faba38-163d-4ae6-a952-c554a8cea5a2/d27f462d610480b97b53bdd5acdf2121/Data/Box.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/a7856523-73ab-4f76-8866-20b534f96318>
+      PackagePath: ""
+  SourceHash: d27f462d610480b97b53bdd5acdf2121
+  FileHash: 15029ed3b0de51096783f94ebdf80156
+  NativePackageItems:
+    []

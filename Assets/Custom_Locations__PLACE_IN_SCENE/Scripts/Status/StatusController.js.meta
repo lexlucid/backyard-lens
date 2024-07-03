@@ -1,0 +1,70 @@
+- !<AssetImportMetadata/4670668b-e6b1-4fed-a6e9-ba0a6c2b625f>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> b7365f9c-7a19-415e-8396-9ead3339b43a
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> b7365f9c-7a19-415e-8396-9ead3339b43a
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> d4859ae5-9e21-47d9-a10f-9c961da4eace
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/61b611ca-66ad-4a89-a2a9-431128ef2d9d>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/d4859ae5-9e21-47d9-a10f-9c961da4eace>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 06051074-660f-ac7f-4ed2-a66f8c4411ff
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    advanced: false
+    failedTexture: false
+    goToHintTexture: false
+    hintAnimation: false
+    hintText: false
+    hintUI: false
+    loadingRing: false
+    locationContent: false
+    locationController: false
+    locationGraphics: false
+    locationGraphicsTexture: false
+    locationLoadingPreview: false
+    locationName: false
+    onDownloadFail: false
+    onDownloaded: false
+    onLocationFound: false
+    onLocationLost: false
+    pointAtHintTexture: false
+    sendBehaviorTrigger: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - locationName: ""
+      locationGraphicsTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      sendBehaviorTrigger: false
+      onLocationFound: OnLocationFound
+      onLocationLost: OnLocationLost
+      onDownloaded: OnLocationDownloaded
+      onDownloadFail: OnLocationFailed
+      advanced: false
+      locationContent: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hintText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      locationController: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      locationGraphics: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      hintAnimation: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      locationLoadingPreview: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      loadingRing: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hintUI: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      goToHintTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      pointAtHintTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      failedTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

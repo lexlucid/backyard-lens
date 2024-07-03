@@ -1,0 +1,14 @@
+- !<AssetCache/f59bbf28-1328-40f2-9c8a-c173b64c5e1a>
+  AssetFiles:
+    2978b0de-a1ae-427d-aa9a-9400116c0196: 770a6517-53c1-4da0-b5f5-e715e46bdd86/cbd7e992d67a0e109b057af1cb49f4f0/Data/custom-landmarker-scan-1-a783491b4024b59080a5d840915eec86.png
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/2978b0de-a1ae-427d-aa9a-9400116c0196>
+      PackagePath: ""
+      Width: 320
+      Height: 320
+  SourceHash: cbd7e992d67a0e109b057af1cb49f4f0
+  FileHash: 8b82515b03d873f2e147e0a1b8cea67b
+  NativePackageItems:
+    []
